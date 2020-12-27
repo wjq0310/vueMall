@@ -8,3 +8,6 @@
    （1）进入vueMall中server文件打开cmd中输入npm start
    （2）进入vueMall文件用cmd打开输入npm run dev
     
+商品列表、购物车需要登录才能显示内容
+登录用户名：092218239
+    密 码：123456
